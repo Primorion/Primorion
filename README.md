@@ -25,6 +25,19 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
+<!-- Background github GIF with 3 Luka Doncic down below -->
+<div align="center">
+<img width="250" height="300" src="https://media.giphy.com/media/XnbdVZIqbqV8c/giphy.gif?cid=790b761110sl6f2m0a5s0svxx3s4w44kwv5td2jfmqm3b3ss&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/JSq8jv7SEm5GrpFebD/giphy.gif?cid=ecf05e478yj0vzn2fxy8jhqdj15injwzy4vqknzf8gd820ij&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
+<img src="https://media.giphy.com/media/JSq8jv7SEm5GrpFebD/giphy.gif?cid=ecf05e478yj0vzn2fxy8jhqdj15injwzy4vqknzf8gd820ij&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
+<img src="https://media.giphy.com/media/ocMYtK6yU1AE8/giphy.gif?cid=790b761110sl6f2m0a5s0svxx3s4w44kwv5td2jfmqm3b3ss&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="280">
+
+<br>
+
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
 
 # 💫 Introduction
 
