@@ -25,7 +25,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <br>
 
-<!-- Background github GIF with 3 Luka Doncic down below -->
+<!-- Background github GIF with 2 Super Saiyan Goku down below -->
 <div align="center">
 <img width="300" height="300" src="https://media.giphy.com/media/XnbdVZIqbqV8c/giphy.gif?cid=790b761110sl6f2m0a5s0svxx3s4w44kwv5td2jfmqm3b3ss&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img src="https://media.giphy.com/media/JSq8jv7SEm5GrpFebD/giphy.gif?cid=ecf05e478yj0vzn2fxy8jhqdj15injwzy4vqknzf8gd820ij&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
@@ -36,29 +36,39 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+</div>
 
+# 💫 About Me:
 
-# 💫 Introduction
-
-## 🔭 Joshua D.R. Maquilan
+### 🔭 Joshua D.R. Maquilan
 
 Hello, everyone! My name is Joshua D.R. Maquilan, and I am a first-year student pursuing a Bachelor of Science in Information Technology (BS IT) at National University.
 
-## 💬 About Me
+### 💬 About Me
 
 I have a strong passion for technology and its potential to transform the world. As an aspiring IT professional, I am eager to learn and explore various aspects of the field, including software development, networking, database management, and cybersecurity.
 
-## 👯 Goals
+### 👯 Goals
 
 During my time at National University, I aim to acquire a solid foundation in IT concepts and gain practical skills that will prepare me for a successful career in the industry. I am excited to collaborate with fellow students, engage in hands-on projects, and make the most of the learning opportunities provided by the university.
 
-## 🤔 Interests
+### 🤔 Interest
 
 Apart from my academic pursuits, I have a keen interest in exploring emerging technologies, participating in coding competitions, and staying updated with the latest trends in IT. I believe in continuous learning and growth, and I am always open to new challenges and experiences.
 
-## 📫 Contact Information
+### 📫 Contact Information
 
-If you have any questions, suggestions, or opportunities to collaborate, feel free to reach out to me. You can contact me via email at [joshua.maquilan@example.com](mailto:joshua.maquilan@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshuamaquilan).
+If you have any questions, suggestions, or opportunities to collaborate, feel free to reach out to me. You can contact me via email at [maquilanjd@students.national-u.edu.ph](mailto:maquilanjd@students.national-u.edu.ph) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshuamaquilan).
+
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- Introduction with Final Fantasy GIF table style down below -->
+## [Introduction](#introduction)
+
+
+
+
 
 ###
 
