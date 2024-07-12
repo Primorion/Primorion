@@ -161,38 +161,35 @@ If you have any questions, suggestions, or opportunities to collaborate, feel fr
 
 ###
 
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- GitHub Stats features such as Most Used Languages, Trophies, Contribute stats and so on..  -->
+<h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Primorion&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Primorion&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
+</p>
+
+<br>
+<!-- GitHub trophy -->
+<p align="center">
+<img  width="1000" src="https://github-profile-trophy.vercel.app/?username=Primorion&theme=tokyonight" />
+</p>
+
+<br>
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<br>
+
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28weWQxcGowbTAyaHl5Y283azYzdmg2d2ttdzVnYW1lNGkxbHV0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Snd51fjjX6s0M/giphy.gif"  />
-</div>
+  
+<!-- Random Quote -->
+### ✍️ Random Dev Quote 
 
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/3oKIPs4Lf96UfvQamk/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/fQGBjfGl29jY3jTx0J/giphy.gif"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="https://www.facebook.com/joshua.maquilan.1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
