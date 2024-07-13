@@ -207,3 +207,21 @@ If you have any questions, suggestions, or opportunities to collaborate, feel fr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
+
+<!-- Introduction Pannel button link, it will redirect to the top -->
+#### [Back to Table of Content](#introduction)
+---
+<!-- Intro point insert background text style line "Thanks for visiting enjoy your day! -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+<!-- Link for Discord Channel and  -->
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Primorion#0246) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flexyledger)
+
+[![](https://visitcount.itsvg.in/api?id=Primorion&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time+~!;" alt="mystreak"/>
+</p>
+<!-- End point insert background text style line "Come back again next time! -->
