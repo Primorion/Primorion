@@ -67,23 +67,22 @@ If you have any questions, suggestions, or opportunities to collaborate, feel fr
 ## [Introduction](#introduction)
 <div style="display: flex; justify-content: space-between;">
 <img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10MjA2dnJ2emtia3N1M3EwcDFuaXMxNzZ4ZzFydXVrNmhxMTg4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nvyAPgUsTLZTxYsdP0/giphy.gif" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/Sr4D0JYXItF1C/giphy.gif?cid=ecf05e47g9fxd637tsvrne6enbfvgf08vl6abgg2vmjhhsg3&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/56ftHnRhmdpNC/giphy.gif?cid=790b7611n8v5qw2o1c61rnekfs2uu8kh1exs4c9tzcw3pys1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdycTNqM2R0eTA1djdzcTJnZXE1eGR6NG13emU0ejhtY3VtcmVkZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ETO6dZr3LxWED3dGRD/giphy.gif" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/hTfJutMhnYbMNzdYaS/giphy.gif?cid=ecf05e47kzyqmadwxwsvegr0dcwmx1hzxkbn29ygsilz8kgl&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10MjA2dnJ2emtia3N1M3EwcDFuaXMxNzZ4ZzFydXVrNmhxMTg4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nvyAPgUsTLZTxYsdP0/giphy.gif" style="margin-right: 20px;" />
    
-  <img width="200" height="200" src="https://media.giphy.com/media/c6EsRlEmxPUQ6jvlIJ/giphy.gif?cid=ecf05e47g3zptts3bcdduevx1pfrvaqlw9or10heciyly56k&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/gDU3K2ooKk9VXMBara/giphy.gif?cid=ecf05e47qyr5n4obt943e7tsv04wvjq0ggvf1835q9usxjgj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/tV2SncdfCaxK2cJyYN/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-  <img width="200" height="200" src="https://media.giphy.com/media/c6EsRlEmxPUQ6jvlIJ/giphy.gif?cid=ecf05e47g3zptts3bcdduevx1pfrvaqlw9or10heciyly56k&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-
+  <img width="200" height="200" src="https://media.giphy.com/media/X0ViquUytNNxCnIxmy/giphy.gif?cid=790b76113rp4lzb8r3tl743a02y6xstz8v5b0qwxdytru0l8&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif?cid=790b7611tcx0z25z38b988uz3tg8k8roxs7yqmsmgg9sqse6&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 10px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NmZXczazAxOWJxZjN6OHMxcGRncWJlZGJndWloemdxY2F6cGw1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxld1UBIiGuoh31Fus/giphy.gif" style="margin-right: 20px;" />
+  <img width="200" height="200" src="https://media.giphy.com/media/s4NRAdLXGF1IdhPerd/giphy.gif?cid=790b76113rp4lzb8r3tl743a02y6xstz8v5b0qwxdytru0l8&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 
 <img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10MjA2dnJ2emtia3N1M3EwcDFuaXMxNzZ4ZzFydXVrNmhxMTg4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nvyAPgUsTLZTxYsdP0/giphy.gif" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/jXL1LqDFPhEVGW3lSt/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
-<img width="200" height="200" src="https://media.giphy.com/media/kXmDKChS2gETDzTH2G/giphy.gif?cid=ecf05e47zg5o9jut4ch3ysdzv4oofpuclgftjccnkr26ouq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/SWzYvgMrSItDGb9rBM/giphy.gif?cid=ecf05e47k0zp38z1f6ath9qj86wou43hl070a34yakp7y4by&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img width="200" height="200" src="https://media.giphy.com/media/Te1TJGVt58dAshr30Q/giphy.gif?cid=ecf05e47k0zp38z1f6ath9qj86wou43hl070a34yakp7y4by&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
 <img width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam10MjA2dnJ2emtia3N1M3EwcDFuaXMxNzZ4ZzFydXVrNmhxMTg4NCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nvyAPgUsTLZTxYsdP0/giphy.gif" style="margin-right: 20px;" />
 
-
-
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ###
 
