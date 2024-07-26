@@ -37,7 +37,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
+
 <!-- About me, you can revise this whenever you want -->
+
 # 💫 About Me:
 
 ### 🔭 Joshua D.R. Maquilan
@@ -58,7 +60,7 @@ Apart from my academic pursuits, I have a keen interest in exploring emerging te
 
 ### 📫 Contact Information
 
-If you have any questions, suggestions, or opportunities to collaborate, feel free to reach out to me. You can contact me via email at [maquilanjd@students.national-u.edu.ph](mailto:maquilanjd@students.national-u.edu.ph) or connect with me on [LinkedIn](https://www.linkedin.com/in/joshuamaquilan).
+If you have any questions, suggestions, or opportunities to collaborate, feel free to reach out to me. You can contact me via email at [maquilanjd@students.national-u.edu.ph](mailto:maquilanjd@students.national-u.edu.ph) or connect with my friend on [LinkedIn](https://www.linkedin.com/in/flexycode).
 
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -198,6 +200,9 @@ If you have any questions, suggestions, or opportunities to collaborate, feel fr
 </p>
 
 <br>
+
+<!-- GitHub Graph  -->
+<a href="https://github.com/Primorion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Primorion&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
 
 <!-- GitHub trophy -->
 ## 🏆 GitHub Trophies
