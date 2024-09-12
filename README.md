@@ -190,6 +190,22 @@ If you have any questions, suggestions, or opportunities to collaborate, feel fr
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+<div align="center">
+
+<!-- GitHuB contributions such as GitHuB Workflow Status, GitHub release, GitHub marketplace, Github contribution graph, GitHub Trophies, GitHub Snake Animation Workflow -->
+# 📈 GitHub Contribution:
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest) 
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+##### My GitHub contributions graph
+
+![snake gif](https://github.com/flexycode/flexycode/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 <!-- GitHub Stats features such as Most Used Languages, Trophies, Contribute stats and so on..  -->
 <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 
@@ -201,6 +217,8 @@ If you have any questions, suggestions, or opportunities to collaborate, feel fr
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 <!-- GitHub Graph  -->
 <a href="https://github.com/Primorion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Primorion&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
 
@@ -208,6 +226,8 @@ If you have any questions, suggestions, or opportunities to collaborate, feel fr
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Primorion&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) 
+
+</div>
 
 <br>
 <!-- End point insert background effect line of sight color red -->
